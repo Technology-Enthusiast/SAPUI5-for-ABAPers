@@ -1,0 +1,16 @@
+<!DOCTYPE myPOs SYSTEM "po.dtd">
+<myPOs title = " Our Purchase orders">
+    <po id="1">
+         <werks>DE01</werks>
+        <bukrs>1000</bukrs>
+    </po>
+    <po id="2">
+        <werks>DE01</werks>
+        <bukrs>1000</bukrs>
+    </po>
+
+    <po id="3">
+        <werks>DE01</werks>
+        <bukrs>1000</bukrs>
+    </po>
+</myPOs>

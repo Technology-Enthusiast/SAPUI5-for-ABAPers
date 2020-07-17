@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<!ELEMENT myPOs(po)>
+<!ELEMENT po(werks,bukrs)>
+<!ELEMENT werks(#PCDATA)>
+<!ELEMENT bukrs(#PCDATA)>
+<!ATTLIST po id ID #REQUIRED>
